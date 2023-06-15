@@ -2,20 +2,30 @@
 
 What is the open-democracy-project?
 
-# Democracy AI
+# open-democracy-project
 
-Democracy AI is an open-source project aimed at facilitating public participation in policy-making. By leveraging the power of AI, we strive to make political discourse more accessible, informed, and inclusive. This platform aims to bridge the gap between the public and policymakers, fostering a more democratic and participative policy-making process.
+> To usher in a new era of self-governance through technological innovation, where the collective wisdom of the people, through structured debate facilitated by AI leads to fruitful discourse, and which generates well thought out and representative public-policy. We envision a future where every voice is heard, and democracy is not just representative but actively practiced by all, eliminating corruption and undue influence. Our platform is not an end in itself, but a step towards evolving forms of governance that embody the true spirit of democracy: a government of the people, by the people, for the people
 
-## Project Features
+## Project Goals
 
-- **AI-Powered Policy Understanding:** Simplifies complex policy matters, making them easily understandable.
-- **Fact-Checking:** Utilizes AI to debunk misinformation and verify details.
-- **Structured Conversations:** Structures discussions in a tree-like hierarchy to facilitate comprehensive and focused debates.
-- **Anonymity & User Verification:** Allows users to interact anonymously while implementing user verification to prevent manipulation.
-- **Bias Detection & Mitigation:** Uses self-reported demographic data to analyze and mitigate any participation disparities.
-- **Direct Connection to Policymakers:** Enables users to share their ideas and concerns with elected representatives.
-- **Policy Simulation:** Employs AI and advanced modeling to simulate potential impacts of policy proposals.
-- **Public Opinion Analysis:** Harnesses AI to analyze public sentiment on various policy issues.
+1. **Inclusive Public Participation**
+   - Enable a broad spectrum of the public to participate in policy discussions, regardless of their prior knowledge or expertise in politics.
+   - Ensure that no conversation is one sided, and monitor and correct for the loss of minority voices in large conversations.
+   - Leverage AI technologies to facilitate conversation to be nuanced, and respectful.
+   - Make the platform accessible to all users, regardless of their technological proficiency or physical abilities.
+   - Safeguard users' privacy by implementing strict data handling and privacy protocols. 
+
+2. **Foster Constructive Debates**
+   - Make well vetted information easily accesible so that people can be informed about, and contribute meaningfully to conversations.
+   - Create a platform that encourages respectful and constructive debates, providing an environment where different viewpoints can be discussed and understood.
+   - Implement robust source analysis tooling to weigh and vote on the quality of information availible to inform discussions.
+   - In order to ensure that discussion centers on ideas, make contributions anonymous. 
+
+3. **Facilitate Change**
+   - Establish direct channels of communication between users and their elected representatives, ensuring that public opinion is conveyed to the decision-makers.
+   - Establish systems of accountabilty for users to see if their politicians listen to them, so that they can make informed decisions about who they would like to vote for.
+
+The most important goal is to make policy-making more democratic and inclusive by empowering the public to actively participate meaningfully in the process. We welcome your ideas and contributions towards achieving these goals.
 
 ## Tech Stack
 
