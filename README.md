@@ -33,6 +33,10 @@ The most important goal is to make policy-making more democratic and inclusive b
 - **Front-End:** React Native
 - **AI**: GPT-4 and other AI models
 
+## Community
+
+We believe in creating a welcoming and inclusive community. Respect and kindness are at the core of our interactions. Regardless of your experience level, we value your participation and are committed to ensuring a positive environment for everyone. Join us on the [discord](https://discord.gg/3yrHPZbn)
+
 ## Contributing
 
 Whether you're just starting your journey as a developer or you're a seasoned veteran, your contributions can make a significant difference. The Democracy AI project welcomes developers with varying levels of expertise. Our project encompasses various layers, from front-end and back-end development to AI integration, and there's room for everyone.
@@ -45,9 +49,6 @@ If you're experienced and have an idea for a feature or improvement that isn't l
 
 Remember, contributing to open source is not just about code. If you can help with documentation, design, testing, or have other skills you'd like to contribute, we'd love to hear from you!
 
-## Community
-
-We believe in creating a welcoming and inclusive community. Respect and kindness are at the core of our interactions. Regardless of your experience level, we value your participation and are committed to ensuring a positive environment for everyone. Please adhere to our community guidelines and treat all participants with respect.
 
 ## License
 
